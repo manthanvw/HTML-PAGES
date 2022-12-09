@@ -1,0 +1,11 @@
+.table{
+    margin-top:5px;
+    margin-left:5px;
+    border:2px solid black
+}
+#signup{
+    border:2px solid black ;
+    margin-top:6px;
+    text-align: center;
+    width: 100%;
+}
